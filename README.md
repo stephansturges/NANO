@@ -6,11 +6,13 @@ It's free to use so knock yourself out! Just make sure to follow the Ultralytics
 
 # Does it work?
 
-Not bad... it's a nano model so it's super fast for your edge devices. See the video below.
+It's not bad... it's a nano model so it's super fast for your edge devices... but is struggles with small objects that are far from the camera. You can run it on a cropped input of your complete frame to get pretty good performance. See the video below.
 
 
+![output](https://github.com/stephansturges/NANO/assets/20320678/1000d8b0-480f-463b-91b4-018f63ca4529)
 
-The size of the neural network makes it pretty ineffective at longer ranges, which is expected. 
+
+As you can see: the size of the neural network makes it pretty ineffective at longer ranges, which is expected. 
 
 
 
