@@ -7,9 +7,13 @@ It's free to use so knock yourself out! Just make sure to follow the Ultralytics
 Output classes: 
 
 0 --> 'person'
+
 1 --> 'bike'
+
 2 --> 'light_vehicle'
+
 3 --> 'truck'
+
 4 --> 'bus' 
 
 # Does it work?
