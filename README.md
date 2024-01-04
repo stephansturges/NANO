@@ -4,6 +4,14 @@ NANO is a set of short-range / low-rez / low-altitude trained YOLOv8-nano detect
 
 It's free to use so knock yourself out! Just make sure to follow the Ultralytics terms of service around commercial use (https://github.com/ultralytics/ultralytics) since this uses their code for training.
 
+Output classes: 
+
+0 --> 'person'
+1 --> 'bike'
+2 --> 'light_vehicle'
+3 --> 'truck'
+4 --> 'bus' 
+
 # Does it work?
 
 It's not bad... it's a nano model so it's super fast for your edge devices... but is struggles with small objects that are far from the camera. You can run it on a cropped input of your complete frame to get pretty good performance. See the video below.
