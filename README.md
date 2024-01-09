@@ -1,3 +1,7 @@
+<a href="https://universe.roboflow.com/neural-autonomous-navigation-observer/nano-by-stephan-sturges/model/">
+    <img src="https://app.roboflow.com/images/try-model-badge.svg"></img>
+</a>
+
 ## What is this?
 
 NANO is a set of short-range / low-rez / low-altitude trained YOLOv8-nano detection and segmentation model that detect a few simple things in RGB imagery. They are pretty basic for now.
