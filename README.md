@@ -33,6 +33,9 @@ It's not bad... it's a nano model so it's super fast for your edge devices... bu
 As you can see: the size of the neural network makes it pretty ineffective at longer ranges, which is expected. 
 
 
+# What else
+
+If you're into this project you should probably also check out WALDO: https://github.com/stephansturges/WALDO
 
 
 ## License (MIT)
